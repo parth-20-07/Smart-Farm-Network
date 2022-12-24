@@ -1,0 +1,3 @@
+Time Update Command: time,<yyyy>/<mm>/<dd>/<hr>/<min>/<sec>,#
+Sync Update Command: sync,#
+Sleep Command: sleep,#

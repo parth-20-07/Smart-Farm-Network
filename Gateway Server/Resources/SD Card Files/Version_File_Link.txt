@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Onboardlogic/CityGreen-Gateway-Firmware-File/main/firmware.bin
